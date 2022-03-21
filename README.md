@@ -1,2 +1,2 @@
-# New-Repository
+# Trial-Project
 Microverse exercise
